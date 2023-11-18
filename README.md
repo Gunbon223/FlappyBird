@@ -12,3 +12,6 @@ To open and run the project, follow these steps:
 
 3. If encountering a Gradle error, navigate to the 'build' directory and select the elephant icon to build Gradle.
 
+## Screenshots
+
+![class diagram](/FlappyBird.drawio.png)
