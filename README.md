@@ -16,4 +16,4 @@ To open and run the project, follow these steps:
 
 ![class diagram](/FlappyBird.drawio.png)
 ## Use Case
-![Usecase](/FlappyBird.UseCase.png)
+![Usecase](/UseCase.png)
