@@ -6,7 +6,7 @@ Welcome to the FlappyBird project, a game developed using the libGDX framework a
 
 To open and run the project, follow these steps:
 
-1. Open the project in your Integrated Development Environment (IDE).
+1. Open the project in your IDE.
 
 2. Locate and run the `DesktopLauncher` class in the 'desktop' package.
 
@@ -15,3 +15,5 @@ To open and run the project, follow these steps:
 ## Class Diagram
 
 ![class diagram](/FlappyBird.drawio.png)
+## Use Case
+![Usecase](/FlappyBird.UseCase.png)
